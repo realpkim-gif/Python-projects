@@ -1,4 +1,4 @@
-#First CNN
+# My First ANN
+A basic ANN that can identify types of clothing from an MNIST data set
 
-Basic MNIST Number classifier created using CNN
-Graphs and confusion matrix included
+Uses a softmax activation function
